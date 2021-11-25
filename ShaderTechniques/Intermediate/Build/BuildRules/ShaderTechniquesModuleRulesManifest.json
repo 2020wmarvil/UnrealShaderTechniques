@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\YDOG\\Desktop\\UnrealShaderTechniques\\ShaderTechniques\\Source\\ShaderTechniques\\ShaderTechniques.Build.cs",
+		"C:\\Users\\YDOG\\Desktop\\UnrealShaderTechniques\\ShaderTechniques\\Source\\ShaderTechniques.Target.cs",
+		"C:\\Users\\YDOG\\Desktop\\UnrealShaderTechniques\\ShaderTechniques\\Source\\ShaderTechniquesEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}

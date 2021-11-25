@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ShaderTechniques.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\YDOG\Desktop\UnrealShaderTechniques\ShaderTechniques\Intermediate\Build\Win64\ShaderTechniquesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\YDOG\Desktop\UnrealShaderTechniques\ShaderTechniques\Intermediate\Build\Win64\UE4Editor\Development\ShaderTechniques\ShaderTechniques.cpp.obj"
+"C:\Users\YDOG\Desktop\UnrealShaderTechniques\ShaderTechniques\Intermediate\Build\Win64\UE4Editor\Development\ShaderTechniques\ShaderTechniquesCharacter.cpp.obj"
+"C:\Users\YDOG\Desktop\UnrealShaderTechniques\ShaderTechniques\Intermediate\Build\Win64\UE4Editor\Development\ShaderTechniques\ShaderTechniquesGameMode.cpp.obj"
+"C:\Users\YDOG\Desktop\UnrealShaderTechniques\ShaderTechniques\Intermediate\Build\Win64\UE4Editor\Development\ShaderTechniques\ShaderTechniques.init.gen.cpp.obj"
+"C:\Users\YDOG\Desktop\UnrealShaderTechniques\ShaderTechniques\Intermediate\Build\Win64\UE4Editor\Development\ShaderTechniques\ShaderTechniquesCharacter.gen.cpp.obj"
+"C:\Users\YDOG\Desktop\UnrealShaderTechniques\ShaderTechniques\Intermediate\Build\Win64\UE4Editor\Development\ShaderTechniques\ShaderTechniquesGameMode.gen.cpp.obj"
+"C:\Users\YDOG\Desktop\UnrealShaderTechniques\ShaderTechniques\Intermediate\Build\Win64\UE4Editor\Development\ShaderTechniques\Default.rc2.res"
+/OUT:"C:\Users\YDOG\Desktop\UnrealShaderTechniques\ShaderTechniques\Intermediate\Build\Win64\UE4Editor\Development\ShaderTechniques\UE4Editor-ShaderTechniques.lib"

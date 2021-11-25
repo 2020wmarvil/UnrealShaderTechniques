@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ShaderTechniques",
+			"Path": "C:\\Users\\YDOG\\Desktop\\UnrealShaderTechniques\\ShaderTechniques\\Source\\ShaderTechniques.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShaderTechniquesEditor",
+			"Path": "C:\\Users\\YDOG\\Desktop\\UnrealShaderTechniques\\ShaderTechniques\\Source\\ShaderTechniquesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
