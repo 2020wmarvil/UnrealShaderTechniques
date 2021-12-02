@@ -16,7 +16,7 @@
 
 ### Squiggle Vision
 
-| ![gif](https://i.imgur.com/a0lYgEn.gif) | 
+| ![gif](https://github.com/2020wmarvil/UnrealShaderTechniques/blob/main/gifs/squiggle_sketch2.gif) | 
 |:--:| 
 | *Squiggle Vision with Sketch Effect* |
 
