@@ -20,7 +20,7 @@
 |:--:| 
 | *Squiggle Vision with Sketch Effect* |
 
-| ![gif](https://imgur.com/gallery/2DSyzH4) | 
+| ![gif](https://github.com/2020wmarvil/UnrealShaderTechniques/blob/main/gifs/squiggle_toon.gif) | 
 |:--:| 
 | *Squiggle Vision with Cel Shading* |
 
