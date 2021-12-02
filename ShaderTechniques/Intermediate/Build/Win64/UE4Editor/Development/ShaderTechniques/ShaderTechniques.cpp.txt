@@ -1,2 +1,0 @@
-C:\Users\YDOG\Desktop\UnrealShaderTechniques\ShaderTechniques\Intermediate\Build\Win64\UE4Editor\Development\ShaderTechniques\Definitions.ShaderTechniques.h
-C:\Users\YDOG\Desktop\UnrealShaderTechniques\ShaderTechniques\Source\ShaderTechniques\ShaderTechniques.h
