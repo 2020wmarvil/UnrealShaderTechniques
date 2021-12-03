@@ -4,23 +4,23 @@
 
 ### Sketching
 
-| ![gif](https://github.com/2020wmarvil/UnrealShaderTechniques/blob/main/gifs/sketch.gif) | 
+| ![Hand drawn post process effect](https://github.com/2020wmarvil/UnrealShaderTechniques/blob/main/gifs/sketch.gif) | 
 |:--:| 
 | *Hand drawn post process effect* |
 
 ### 2-Cel Toon Shading
 
-| ![gif](https://github.com/2020wmarvil/UnrealShaderTechniques/blob/main/gifs/toon.gif) | 
+| ![Two tone Cel Shading](https://github.com/2020wmarvil/UnrealShaderTechniques/blob/main/gifs/toon.gif) | 
 |:--:| 
 | *Two tone Cel Shading* |
 
 ### Squiggle Vision
 
-| ![gif](https://github.com/2020wmarvil/UnrealShaderTechniques/blob/main/gifs/squiggle_sketch.gif) | 
+| ![Squiggle Vision with Sketch Effect](https://github.com/2020wmarvil/UnrealShaderTechniques/blob/main/gifs/squiggle_sketch.gif) | 
 |:--:| 
 | *Squiggle Vision with Sketch Effect* |
 
-| ![gif](https://github.com/2020wmarvil/UnrealShaderTechniques/blob/main/gifs/squiggle_toon.gif) | 
+| ![Squiggle Vision with Cel Shading](https://github.com/2020wmarvil/UnrealShaderTechniques/blob/main/gifs/squiggle_toon.gif) | 
 |:--:| 
 | *Squiggle Vision with Cel Shading* |
 
